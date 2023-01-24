@@ -144,9 +144,12 @@ body {
   text-transform: capitalize;
   margin: 0 0 48px;
 }
-.section-heder-2 {
+.section-header {
   text-transform: lowercase;
   margin: 0;
+}
+.hero-phrase {
+  padding: 0 316px;
 }
 .button-main {
   background-color: var(--color-logo-1);
